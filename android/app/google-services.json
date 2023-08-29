@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "727503229020",
+    "project_id": "jsskos-8852b",
+    "storage_bucket": "jsskos-8852b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727503229020:android:86edbd4a0b22722f0dd699",
+        "android_client_info": {
+          "package_name": "com.example.jsskos_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727503229020-6u13ec1gop3hjqb0f1i3cut8o0mhkvn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt3hYwGm6ZbcPpeORLX8WhL43jSECKuJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727503229020-6u13ec1gop3hjqb0f1i3cut8o0mhkvn7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727503229020-kbed0lth1ll2r9417tcsf65020smedtk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jsskosApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
